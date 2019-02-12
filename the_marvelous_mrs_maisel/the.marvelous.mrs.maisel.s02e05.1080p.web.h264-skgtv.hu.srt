@@ -106,7 +106,7 @@ egy nagy serpenyő.
 
 24
 00:01:11,033 --> 00:01:13,661
-- Tessék. Hogy van?
+- Tessék! Hogy van?
 - Köszönöm!
 
 25
@@ -133,31 +133,31 @@ Lenyugodott öreg korára?
 Elejtik. Ó, az leesett.
 
 30
-00:01:21,961 --> 00:01:23,337
+00:01:21,961 --> 00:01:23,637
 Azt hiszem, bekapcsolva
 hagytam a vasalót.
 
 31
-00:01:23,379 --> 00:01:24,922
-Nem, nem hagytam bekapcsolva.
+00:01:23,679 --> 00:01:24,922
+Nem, nem hagytad bekapcsolva.
 
 32
-00:01:24,964 --> 00:01:26,875
+00:01:24,964 --> 00:01:27,175
 Adja oda ezeket az ingyen
 ruhákat a dolgozóknak!
 
 33
-00:01:26,899 --> 00:01:28,217
+00:01:27,199 --> 00:01:28,217
 - Érti?
 - Igen, uram!
 
 34
-00:01:28,259 --> 00:01:29,986
+00:01:28,259 --> 00:01:30,086
 - Bekapcsolva hagytam a vasalót?
 - Nem hagytad bekapcsolva.
 
 35
-00:01:30,010 --> 00:01:32,680
+00:01:30,110 --> 00:01:32,680
 A Maisel és Roth-tól
 kapják ezeket a vadonatúj,
 
@@ -227,12 +227,12 @@ Mi a helyzet a kis
 színpaddal a Kutshers-ben?
 
 50
-00:02:06,922 --> 00:02:08,766
+00:02:06,922 --> 00:02:08,866
 - Azt hallottam, volt egy megnyitód ott.
 - Kitől?
 
 51
-00:02:08,767 --> 00:02:10,002
+00:02:08,867 --> 00:02:10,002
 Nem mindegy? Volt vagy sem?
 
 52
@@ -291,12 +291,12 @@ dobáljak be pénzt, csak mert mérges.
 - Susie, sok a dolgom.
 
 63
-00:02:38,162 --> 00:02:40,447
+00:02:38,162 --> 00:02:40,647
 - Nem érek rá egész nap.
-- Mi van a Kutshers-szel?
+- De mi van a Kutshers-szel?
 
 64
-00:02:40,489 --> 00:02:42,583
+00:02:40,689 --> 00:02:42,583
 Halló? Picsába!
 
 65
@@ -310,7 +310,7 @@ Még mindig tartozik 30...
 67
 00:02:58,432 --> 00:03:00,392
 - Helló!
-- Uh, helló!
+- Ő, helló!
 
 68
 00:03:00,434 --> 00:03:01,852
@@ -705,12 +705,12 @@ fizessenek a szolgáltatásaiért.
 
 154
 00:06:25,347 --> 00:06:26,783
-Ezért kapták el.
-A különdíj miatt.
+Ez buktatta le.
+A különdíj.
 
 155
 00:06:26,807 --> 00:06:29,200
-New Yorkban csak egyvalaki
+New York-ban csak egyvalaki
 számol fel annyit a vattákért.
 
 156
@@ -756,12 +756,12 @@ Most meg már a bemondóval
 
 165
 00:06:55,794 --> 00:06:57,755
-A srác, aki az üzeneteimet
+A kölyök, aki az üzeneteimet
 csempészi neked
 
 166
 00:06:57,796 --> 00:07:00,406
-nyelt a tó vizéből és akkorára
+tóvizet nyelt és akkorára
 duzzadt a feje, mint egy lufi.
 
 167
@@ -792,7 +792,7 @@ meg azt mondta,
 172
 00:07:12,619 --> 00:07:14,836
 van egy vissszamondásuk
-a Kutshers-ben a kis teremben,
+a Kutshers kis termében,
 
 173
 00:07:14,855 --> 00:07:16,307
@@ -825,12 +825,12 @@ népszerű és az emberek megőrülnek.
 179
 00:07:27,284 --> 00:07:31,054
 Rohannod kell a feltétekhez, ha még
-valamit rá akarsz tenni mielőtt kihűlne.
+valamit rá akarsz tenni, mielőtt kihűlne.
 
 180
 00:07:31,080 --> 00:07:34,398
 A gofrik után Dorothy Kulgberg megvert
-pingpongban és veszítettem 2 dollárt.
+pingpongban és vesztettem 2 dollárt.
 
 181
 00:07:34,458 --> 00:07:36,710
@@ -854,7 +854,7 @@ vissza kellett rohannom a házba,
 185
 00:07:42,473 --> 00:07:44,819
 hogy a testvéremék szobáját
-előkészítsem mire megérkeznek.
+előkészítsem, mire megérkeznek.
 
 186
 00:07:44,820 --> 00:07:47,620
@@ -900,7 +900,7 @@ hogy találjak neked fellépést.
 
 195
 00:08:01,435 --> 00:08:03,600
-Hasonló ahhoz, amit New Yorkban
+Hasonló ahhoz, amit New York-ban
 csinálok, csak most kullancsokkal.
 
 196
@@ -944,7 +944,7 @@ Még a kibaszott címke is rajta volt.
 
 204
 00:08:22,756 --> 00:08:24,909
-Hívásokat intézek egymás után
+Hívásokat intézek egymás után,
 de semmi sem történik.
 
 205
@@ -1260,7 +1260,7 @@ Csatlakozhatnál hozzá.
 
 272
 00:11:14,720 --> 00:11:16,847
-- Mama, légyszíves!
+- Mama, légy szíves!
 - Miriam, nem evezett. Emlékszel?
 
 273
@@ -1329,7 +1329,7 @@ Köszönöm, Ida! Köszönöm szépen!
 
 287
 00:11:45,292 --> 00:11:46,793
-Mama, visszaérek, amint tudok.
+Mama, jövök vissza, amint tudok.
 
 288
 00:11:48,587 --> 00:11:50,255
@@ -1565,7 +1565,7 @@ Két embert látok
 
 338
 00:14:30,248 --> 00:14:31,666
-Ez nem egy játék.
+Ez nem játék.
 
 339
 00:14:31,708 --> 00:14:34,402
@@ -1957,7 +1957,7 @@ egyezményt Nasser egyiptomi elnökkel</i>
 
 423
 00:18:00,542 --> 00:18:03,002
-<i>megalakítva az Arab Államok Ligája.</i>
+<i>megalakítva az Arab Államok Ligáját.</i>
 
 424
 00:18:03,044 --> 00:18:06,138
@@ -2130,7 +2130,7 @@ Az oroszok holdra szálltak.
 459
 00:20:01,746 --> 00:20:04,082
 Szereti egyáltalán
-valaki a Borscs levest?
+valaki a borscs levest?
 
 460
 00:20:04,123 --> 00:20:07,892
@@ -2279,7 +2279,7 @@ Mindjárt adom a számot.
 
 490
 00:21:27,707 --> 00:21:29,184
-- Elnézést? Ön mit...
+- Elnézést, maga mit...?
 - Pumpa.
 
 491
@@ -2298,7 +2298,7 @@ Köszönöm!
 
 494
 00:21:46,768 --> 00:21:49,321
-Meghívlak egy italra majd a
+Meghívlak majd egy italra a
 Catskills-ben, egy köszönöm italra.
 
 495
@@ -2756,13 +2756,13 @@ mert az útjuk a Spanyol
 Harlemen keresztül vezetett.
 
 592
-00:26:24,003 --> 00:26:28,040
-Azon elmélkedne, vajon mit
-csinálhatott az a 40 Puerto Ricó-i
+00:26:24,003 --> 00:26:29,040
+Azon tűnődne, vajon mit csinálhatott az
+a 40 Puerto Ricó-i együtt egy lakásban,
 
 593
-00:26:28,081 --> 00:26:32,400
-együtt egy lakásban, miközben ennek a
+00:26:29,081 --> 00:26:33,000
+miközben ennek a
 fazonnak 8 lepedőt érő gyűrűje van.
 
 594
@@ -2865,7 +2865,7 @@ Rómával, gyorsan."
 
 616
 00:27:25,174 --> 00:27:27,491
-"János, Fran vagyok New Yorkból."
+"János, Fran vagyok New York-ból."
 
 617
 00:27:27,692 --> 00:27:31,961
@@ -2940,8 +2940,8 @@ Letartóztatják azért, amiket mond.
 
 633
 00:28:20,160 --> 00:28:22,137
-El tudod te képzelni?
-Letartóztatni egy humorisát.
+El tudod képzelni?
+Letartóztatni egy humoristát.
 
 634
 00:28:22,179 --> 00:28:24,540
@@ -3076,7 +3076,7 @@ Be kellett jelentkeznie.
 
 663
 00:29:42,343 --> 00:29:45,643
-Viccelsz. Elmentél a Catskills-be,
+Viccelsz. Elmentél a Catskills-be
 és összeszedtél egy orvost?
 
 664
@@ -3109,12 +3109,12 @@ A mikrofon sötét oldalára.
 Egyetlen randi.
 
 671
-00:29:59,385 --> 00:30:02,004
+00:29:59,385 --> 00:30:02,204
 Tényleg azt hiszed, hogy visszatérsz
-zselatin formákat készíteni?
+majd zselatin formákat készíteni?
 
 672
-00:30:02,054 --> 00:30:03,824
+00:30:02,254 --> 00:30:03,824
 Nem is tudom, pazar
 formákat készítek.
 
@@ -3179,7 +3179,7 @@ Vegyen neki egy limonádét
 
 686
 00:30:50,853 --> 00:30:52,289
-Hű, nézd csak mekkora szendvics!
+Hű, nézd mekkora szendvics!
 
 687
 00:30:52,313 --> 00:30:54,156
@@ -3312,7 +3312,7 @@ Talán nem is egy tárgyalás volt.
 714
 00:31:59,863 --> 00:32:01,632
 Klubokba járok esténként
-és vicceket mondok.
+és poénkodom.
 
 715
 00:32:01,674 --> 00:32:03,634
@@ -3555,8 +3555,8 @@ a családod házánál, eszembe jutott.
 
 766
 00:34:21,271 --> 00:34:24,191
-Milyen igazi tetű dolgot tehet
-olyasvalaki, mint Miriam Maisel?
+Milyen igazi tetű húzásra számíthatok
+olyasvalakitől, mint Miriam Maisel?
 
 767
 00:34:24,233 --> 00:34:25,718
@@ -3766,7 +3766,7 @@ penész vagy rothadó gyümölcs...
 
 811
 00:36:18,897 --> 00:36:21,350
-- Ez én vagyok. Engem érzel.
+- Én vagyok az. Engem érzel.
 - Nem, Astrid, nem te...
 
 812
@@ -3777,7 +3777,7 @@ penész vagy rothadó gyümölcs...
 813
 00:36:24,770 --> 00:36:27,290
 Elmentem a kínai negyedbe és
-vettem ilyen gyógynövényes krémet,
+vettem egy gyógynövényes krémet,
 
 814
 00:36:27,314 --> 00:36:29,216
@@ -3786,7 +3786,7 @@ kenned bizonyos időközönként,
 
 815
 00:36:29,257 --> 00:36:31,552
-amikor bizonyos dolgok történnek,
+amikor bizonyos dolgok történnek
 vagy történniük kellene,
 
 816
@@ -3815,8 +3815,8 @@ pelenkájának keveréke lenne.
 
 821
 00:36:43,372 --> 00:36:46,008
-Szóval bekened magad, amit
-én megtettem, és egy hónappal múlva
+Szóval bekened magad,
+amit én megtettem, és egy hónap múlva
 
 822
 00:36:46,032 --> 00:36:47,209
@@ -4251,7 +4251,7 @@ Jaj, Abe!
 
 916
 00:40:18,546 --> 00:40:21,923
-Tudod hányszor fogja majd
+Tudod, hányszor fogja majd
 mondani, hogy "puputál".
 
 917
@@ -4451,12 +4451,12 @@ Odakísérhetem önöket
 az asztalhoz, hölgyeim?
 
 960
-00:42:24,496 --> 00:42:26,590
+00:42:24,496 --> 00:42:26,690
 Úgy hallottam,
-a szakács rengeteg "pupu" -t készített.
+a szakács rengeteg "pupu"-t készített.
 
 961
-00:42:26,631 --> 00:42:30,041
+00:42:26,731 --> 00:42:30,041
 Szóval, Shirley mesélte,
 hogy Izraelben fognak majd eltemetni.
 
@@ -4493,7 +4493,7 @@ három óra alatt.
 969
 00:43:08,506 --> 00:43:10,008
 Kicsit elég volt a
-szüleimből, mi?
+szüleimből, igaz?
 
 970
 00:43:10,050 --> 00:43:12,550
@@ -4527,7 +4527,7 @@ Majd mondom, hogy kerested.
 977
 00:43:23,538 --> 00:43:25,482
 - Oké. Rendben.
-- Ja, és hát...,
+- Ja, és...
 
 978
 00:43:25,523 --> 00:43:28,235
@@ -4854,7 +4854,7 @@ akarják tudni,
 
 1048
 00:46:32,585 --> 00:46:34,212
-mi folyik a gyerekkel
+mi folyik a gyerekekkel
 a hátuk mögött.
 
 1049
@@ -4915,7 +4915,7 @@ valójában és mit csinálnak.
 1061
 00:47:03,700 --> 00:47:06,744
 előfordulhat, hogy néha váratlanul
-felbukkannak, aztán hirtelen rájönnek.
+felbukkannak, aztán hirtelen rájönnek:
 
 1062
 00:47:06,794 --> 00:47:08,371
@@ -5050,11 +5050,11 @@ a nászéjszakájukon,
 1090
 00:48:11,643 --> 00:48:13,903
 Nem mondott ilyet.
-Valaki más mondta ezt.
+Valaki más mondta.
 
 1091
 00:48:13,945 --> 00:48:16,038
-Valami másik személy.
+Egy másik személy.
 Én csak meghallottam.
 
 1092
