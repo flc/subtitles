@@ -751,8 +751,8 @@ mint egy trenderli!
 
 164
 00:06:53,792 --> 00:06:55,753
-Most meg már a bemondóval
-üzensz nekem?
+Most meg már a
+bemondóval üzengetsz?
 
 165
 00:06:55,794 --> 00:06:57,755
@@ -792,11 +792,11 @@ meg azt mondta,
 172
 00:07:12,619 --> 00:07:14,836
 van egy vissszamondásuk
-a Kutshers kis termében,
+a Kutshers kistermében,
 
 173
 00:07:14,855 --> 00:07:16,307
-de végül abből se
+de végül abból se
 lett lószar se.
 
 174
@@ -1697,7 +1697,7 @@ Született tehetség vagy.
 
 367
 00:15:43,113 --> 00:15:45,532
-<i>Azt üzeni még öt percet vár.</i>
+<i>Azt üzeni, még öt percet vár.</i>
 
 368
 00:15:47,659 --> 00:15:49,035
@@ -1834,7 +1834,7 @@ végzett, célozz a bábukra.
 
 396
 00:16:50,972 --> 00:16:52,283
-Ó, basszus!
+<i>Ó, basszus!</i>
 
 397
 00:16:52,307 --> 00:16:55,018
@@ -3027,7 +3027,7 @@ Te hogy vagy? Dolgozol?
 
 652
 00:29:17,968 --> 00:29:20,804
-Van egy két fellépésem erre-arra.
+Van egy-két fellépésem erre-arra.
 Most a Catskills-ben vagyok.
 
 653
@@ -3550,7 +3550,7 @@ le nem lakatolták a mikrofont.
 
 765
 00:34:17,693 --> 00:34:21,195
-Aztán meg, ahogy a bokrokban lopakodtam
+Aztán meg, ahogy a bokorban lopakodtam
 a családod házánál, eszembe jutott.
 
 766
@@ -4447,8 +4447,8 @@ Olyan vicces vagy.
 
 959
 00:42:22,377 --> 00:42:24,454
-Odakísérhetem önöket
-az asztalhoz, hölgyeim?
+Odakísérhetem a
+hölgyeket az asztalhoz?
 
 960
 00:42:24,496 --> 00:42:26,690
@@ -4675,22 +4675,22 @@ Nagy kabátokkal meg sálakkal?
 Milyen szadista etet napi tízszer,
 
 1009
-00:44:52,352 --> 00:44:55,446
+00:44:52,352 --> 00:44:55,646
 aztán meg mondja, hogy vegyél fel
 egy rohadt bikinit és találj férjet?
 
 1010
-00:44:55,455 --> 00:44:57,873
+00:44:55,655 --> 00:44:58,073
 Az egyetlen ok, ami miatt
 még van esélyünk az, hogy
 
 1011
-00:44:57,915 --> 00:44:59,884
+00:44:58,115 --> 00:45:00,384
 a férfiak túlságosan tele
 vannak, hogy elfussanak.
 
 1012
-00:44:59,926 --> 00:45:05,887
+00:45:00,426 --> 00:45:05,887
 Minden, amit látok,
 hallok és álmodok
 
@@ -5189,7 +5189,7 @@ Miért nem ment el?
 
 1120
 00:49:14,330 --> 00:49:15,707
-Polinéz ruha.
+polinéz ruha.
 
 1121
 00:49:15,748 --> 00:49:17,225
