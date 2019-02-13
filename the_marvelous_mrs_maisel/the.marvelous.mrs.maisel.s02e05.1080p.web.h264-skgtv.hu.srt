@@ -1099,12 +1099,12 @@ ennek a beszélgetésnek.
 Ideje, hogy alá tegyük.
 
 238
-00:09:55,307 --> 00:09:56,701
-- Hagyja békén!
+00:09:55,307 --> 00:09:56,801
+- Ne mondj semmit!
 - Rendben, lányok,
 
 239
-00:09:56,725 --> 00:09:58,769
+00:09:56,825 --> 00:09:58,769
 beszéljetek hangosan,
 hogy halljam!
 
@@ -1519,7 +1519,7 @@ Nem vonom vissza!
 328
 00:14:09,769 --> 00:14:12,189
 - Moishe.
-- Várj! Kell a telefon?
+- Várj! Kellene egy telefon?
 
 329
 00:14:12,230 --> 00:14:13,940
@@ -2433,7 +2433,7 @@ hogy megvédi ezt a lányt.</i>
 
 523
 00:23:21,003 --> 00:23:22,447
-<i>Várjon! Clerk, hívja a biztosurat!</i>
+<i>Várjon! Hívja a biztosurat!</i>
 
 524
 00:23:22,488 --> 00:23:24,800
@@ -3110,8 +3110,8 @@ Egyetlen randi.
 
 671
 00:29:59,385 --> 00:30:02,204
-Tényleg azt hiszed, hogy visszatérsz
-majd zselatin formákat készíteni?
+Komolyan elhiszed, hogy visszatérsz
+még a zselatin forma készítéshez?
 
 672
 00:30:02,254 --> 00:30:03,824
@@ -3683,12 +3683,12 @@ telefon és te voltál az.
 telefon, egy értékesítő az,
 
 793
-00:35:40,217 --> 00:35:41,961
+00:35:40,217 --> 00:35:42,061
 aki megpróbál eladni
-valami zöldségkefét,
+valami zöldségtisztítót,
 
 794
-00:35:42,003 --> 00:35:45,981
+00:35:42,103 --> 00:35:45,981
 vagy az orvosom mondja, hogy "Nem jó,
 próbálja újra!", de ma te kértél fuvart.
 
@@ -3777,7 +3777,7 @@ penész vagy rothadó gyümölcs...
 813
 00:36:24,770 --> 00:36:27,290
 Elmentem a kínai negyedbe és
-vettem egy gyógynövényes krémet,
+vettem egy gyógynövényes kenőcsöt,
 
 814
 00:36:27,314 --> 00:36:29,216
