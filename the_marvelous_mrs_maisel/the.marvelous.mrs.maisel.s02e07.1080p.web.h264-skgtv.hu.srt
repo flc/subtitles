@@ -1637,7 +1637,7 @@ Csak...
 
 357
 00:16:00,547 --> 00:16:03,049
-nem voltam még mással, mint...
+nem voltam még mással...
 
 358
 00:16:03,091 --> 00:16:05,051
@@ -1702,7 +1702,7 @@ Eléggé lenyûgözõ.
 
 371
 00:16:44,382 --> 00:16:48,909
-Habár a lenyûgözõ egész mást jelentést
+Habár a lenyûgözõ egész más jelentést
 nyer, miután valaki megismer téged.
 
 372
@@ -1920,7 +1920,7 @@ Gõzöm sincs. Oké.
 
 420
 00:19:08,234 --> 00:19:10,236
-- Köszöntõt akarok mondani.
+- Tósztot akarok mondani.
 - Joel.
 
 421
@@ -2148,7 +2148,7 @@ Foglald le azt az estét!
 
 470
 00:21:25,872 --> 00:21:27,874
-- Tetszel neki, jó úton haladunk.
+- Ha tetszel neki, sínen vagyunk.
 - Nem tehetem.
 
 471
@@ -2238,7 +2238,7 @@ Májak. Ennyi máj elég lesz.
 
 489
 00:22:09,974 --> 00:22:11,750
-Báránylábat is kérnék.
+Báránycombot is kérnék.
 
 490
 00:22:11,792 --> 00:22:13,211
@@ -2302,17 +2302,17 @@ jóvá tenni az elmúlt évet és...
 502
 00:22:41,082 --> 00:22:44,159
 de mindketten tudjuk, hogy a rabbi nem
-tud ellenállni egy jó báránylábnak.
+tud ellenállni egy jó báránycombnak.
 
 503
 00:22:44,160 --> 00:22:46,287
-Szóval, ha jó a láb,
+Szóval, ha jó a comb,
 a beugrásból vacsora lesz.
 
 504
 00:22:46,289 --> 00:22:49,786
 Ha a beugrásból vacsora lesz, akkor a
-múlt évi katasztrófa meg sem történt.
+tavalyi katasztrófa meg sem történt.
 
 505
 00:22:49,831 --> 00:22:51,499
@@ -2327,12 +2327,12 @@ múlt évi katasztrófa meg sem történt.
 507
 00:22:53,759 --> 00:22:55,211
 Lutzi, adjon nekünk
-egy jó lábat!
+egy jó combot!
 
 508
 00:22:55,253 --> 00:22:56,938
-- Egy remek lábat.
-- A legjobb lábat.
+- Egy remek combot.
+- A legjobbat.
 
 509
 00:22:56,962 --> 00:22:59,406
@@ -2442,11 +2442,11 @@ azt a jeges teát.
 Családi megbeszélést tartunk.
 
 532
-00:23:55,141 --> 00:23:56,468
-Tudod, hogy nem értem a dolgokat.
+00:23:55,141 --> 00:23:56,568
+Tudod, hogy nem értek a dolgokhoz.
 
 533
-00:23:56,469 --> 00:23:58,071
+00:23:56,569 --> 00:23:58,071
 Az egész családnak
 egyet kell értenie.
 
@@ -2523,12 +2523,12 @@ nem adnál kölcsön a húgodnak.
 
 549
 00:24:34,176 --> 00:24:37,379
-Mindegy. Nem kérek
-tõled pénzt, te aljadék.
+Mindegy.
+Nem pénzt akarok, te aljadék.
 
 550
 00:24:37,421 --> 00:24:38,981
-Úgy sincs semmid.
+Amúgy sincs egy vasad se.
 
 551
 00:24:39,023 --> 00:24:41,400
@@ -2779,7 +2779,7 @@ Nem, magát ismerem. Õ ki?
 
 605
 00:26:46,734 --> 00:26:48,903
-A gyûjtést és a barátnak levést.
+A gyûjtést és a barát dolgot.
 
 606
 00:26:48,945 --> 00:26:51,447
@@ -3203,12 +3203,12 @@ Most pedig most.
 
 702
 00:32:11,225 --> 00:32:13,435
-De már soha nem lesz olyan életem.
+Soha nem lesz olyan életem.
 
 703
 00:32:13,477 --> 00:32:16,430
 - Ne...
-- Nem panaszkodni akarok.
+- Nem akarom túldramatizálni.
 
 704
 00:32:16,472 --> 00:32:20,192
@@ -3556,7 +3556,7 @@ csak erre gondolok.
 
 779
 00:36:47,626 --> 00:36:49,503
-Nem ettünk 24 órája.
+Csak 24 órája nem ettünk.
 
 780
 00:36:49,545 --> 00:36:52,172
@@ -3616,7 +3616,7 @@ Hat sorral hátrébb.
 792
 00:37:18,866 --> 00:37:20,802
 <i>- akár titokban...</i>
-- Ez katolikus, Astrid.
+- Az katolikus, Astrid.
 
 793
 00:37:20,826 --> 00:37:22,703
@@ -3918,7 +3918,7 @@ Rendben. Ha úgy gondolod.
 
 857
 00:40:31,850 --> 00:40:34,770
-És egy szót sem arról, hogy én már
+És egy szót se arról, hogy én már
 tudtam errõl a stand-up dologról!
 
 858
@@ -3991,7 +3991,7 @@ Citromhéj vagy olivabogyó?
 
 872
 00:41:22,776 --> 00:41:25,028
-Áztasd be a babot a végén!
+A végén áztasd be a babot!
 
 873
 00:41:25,070 --> 00:41:26,571
@@ -4240,7 +4240,7 @@ Csak 4 éves.
 
 925
 00:43:44,751 --> 00:43:47,504
-- Az kevés.
+- Még kicsi.
 - A 4 évesek a falumban már dolgoztak.
 
 926
@@ -4658,580 +4658,575 @@ Maga vízvezeték-szerelõ
 volt a Steinerben.
 
 1016
-00:47:31,994 --> 00:47:33,323
-Jött megjavítani
-a mosdókagylót és
+00:47:31,994 --> 00:47:35,094
+Jött megjavítani a csapot és amikor
+elment, rosszabb volt, mint elõtte.
 
 1017
-00:47:33,348 --> 00:47:35,055
-amikor elment, rosszabb
-volt, mint elõtte.
-
-1018
 00:47:35,097 --> 00:47:36,733
 - Susie nem szerelõ, mama.
 - Hát nem.
 
-1019
+1018
 00:47:36,774 --> 00:47:39,602
-- Azt a mosdókagylót nem lehetett
-megjavítani. - Susie a menedzserem.
+- Azt a csapot nem lehetett megjavítani.
+- Susie a menedzserem.
 
-1020
+1019
 00:47:39,644 --> 00:47:41,363
 - A milyének a menedzsere?
 - A stand-upomé.
 
-1021
+1020
 00:47:41,387 --> 00:47:42,907
 Hihetetlen, hogy hazudtál nekünk.
 
-1022
+1021
 00:47:42,931 --> 00:47:44,733
 Úgy tudtam, ilyenkor
 étel is szokott lenni.
 
-1023
+1022
 00:47:44,757 --> 00:47:46,826
 Tudom, hogy sokkolóan hat.
 Nekem is az volt.
 
-1024
+1023
 00:47:46,868 --> 00:47:48,387
 De láttam a színpadon
 és jól csinálja.
 
-1025
+1024
 00:47:48,411 --> 00:47:50,038
 Szerintem igencsak sikeres lehet.
 
-1026
+1025
 00:47:50,079 --> 00:47:51,915
 - Mint mi?
 - Mint stand-upos.
 
-1027
+1026
 00:47:51,956 --> 00:47:53,500
 De hogy találkoztál a szerelõvel?
 
-1028
+1027
 00:47:53,541 --> 00:47:55,835
 Õ csak... csak maradjunk nálam.
 
-1029
+1028
 00:47:55,877 --> 00:47:57,771
 - Ki vigyáz a gyerekekre?
 - Sokan.
 
-1030
+1029
 00:47:57,795 --> 00:47:59,464
 Engem miért nem hívtál?
 
-1031
+1030
 00:47:59,506 --> 00:48:01,858
 Ezért vagy ilyen nyomott
 hangulatban mostanában?
 
-1032
+1031
 00:48:01,899 --> 00:48:03,009
 Mi a baj velem?
 
-1033
+1032
 00:48:03,051 --> 00:48:06,252
 A hangulatomnak ehhez semmi köze.
 Én is csak most tudtam meg.
 
-1034
+1033
 00:48:06,304 --> 00:48:10,364
 A hangulatom valami és valaki
 egészen más miatt ilyen.
 
-1035
+1034
 00:48:10,391 --> 00:48:14,019
 - Értem. Rám célzol. - A hangulatom
 akkor lett ilyen, amikor megtudtam,
 
-1036
+1035
 00:48:14,061 --> 00:48:16,189
 hogy a fiam egy kém, aki
 a kormánynak dolgozik.
 
-1037
+1036
 00:48:16,231 --> 00:48:18,483
 Egy szövetségi ügynök.
 Egy gyilkos!
 
-1038
+1037
 00:48:18,525 --> 00:48:20,151
 Mirõl beszélsz?
 
-1039
+1038
 00:48:20,193 --> 00:48:22,195
 Arról beszélek, hogy
 a CIA-nek dolgozol.
 
-1040
+1039
 00:48:22,237 --> 00:48:23,821
 Ezt ki mondta?
 
-1041
+1040
 00:48:23,863 --> 00:48:26,199
 Az a nap Bell Labs-nél.
 Szerinted hülye vagyok?
 
-1042
+1041
 00:48:26,241 --> 00:48:28,576
 Aztán Astrid úgy dalolt
 anyádnak, mint egy kismadár.
 
-1043
+1042
 00:48:28,618 --> 00:48:30,203
 - Tényleg?
 - Nem is tudom, lehet.
 
-1044
+1043
 00:48:30,245 --> 00:48:32,497
 Épp böjtöltem és
 gyenge voltam és...
 
-1045
+1044
 00:48:32,539 --> 00:48:34,874
 Miért akarok mindig éhen halni?
 
-1046
+1045
 00:48:34,916 --> 00:48:36,517
 Miért dolgozik a
 menedzsered szerelõként?
 
-1047
+1046
 00:48:36,559 --> 00:48:38,359
 Nem értem, hogyan
 kapcsolódik ez a két dolog.
 
-1048
+1047
 00:48:38,394 --> 00:48:39,963
 Higgadjunk le
 mindannyian egy kicsit!
 
-1049
+1048
 00:48:40,004 --> 00:48:43,765
 Nem szándékoztam vitát indítani.
 Nem ezt akartam.
 
-1050
+1049
 00:48:43,841 --> 00:48:46,010
 Nem minden rólad szól, Midge.
 
-1051
+1050
 00:48:46,052 --> 00:48:48,612
 Kivéve ezt, ami konkrétan
 csakis rólam szól.
 
-1052
+1051
 00:48:48,654 --> 00:48:50,388
 Rendben, felejtsük
 el egy pillanatra,
 
-1053
+1052
 00:48:50,389 --> 00:48:53,033
 hogy a menedzsered egy
 vízvezeték-szerelõ. Benjamin tud róla?
 
-1054
+1053
 00:48:53,034 --> 00:48:54,069
 - Tessék?
 - Ki?
 
-1055
+1054
 00:48:54,070 --> 00:48:56,523
 Benjamin? Az meg ki? Soha nem
 mondtad, hogy van egy Benjamin.
 
-1056
+1055
 00:48:56,526 --> 00:48:58,576
 Ez az a fickó, akivel együtt
 lógtál a Catskills-ben?
 
-1057
+1056
 00:48:58,577 --> 00:49:00,864
 - Benjamin nem fontos.
 - Csak szeretném tudni, mit érez.
 
-1058
+1057
 00:49:00,865 --> 00:49:02,450
 Hatással lesz ez a
 párkapcsolatodra?
 
-1059
+1058
 00:49:02,451 --> 00:49:05,418
 - Jártok? - Ez nem a
 megfelelõ idõ egy kapcsolatra.
 
-1060
+1059
 00:49:05,454 --> 00:49:06,982
 Igen. Épp a karriered építed.
 
-1061
+1060
 00:49:06,984 --> 00:49:08,833
 - Turnézni fogunk.
 - Turnézás. Igen.
 
-1062
+1061
 00:49:08,866 --> 00:49:10,719
 Nem lehetsz kapcsolatban,
 miközben turnézol.
 
-1063
+1062
 00:49:10,743 --> 00:49:12,537
 Benjamin tud róla? A turnéról.
 
-1064
+1063
 00:49:12,579 --> 00:49:15,606
 - Oda kell menned, ahol a munka van.
-- Ez így van. Hallgass a férjedre!
+- Így igaz. Hallgass a férjedre!
 
-1065
+1064
 00:49:15,623 --> 00:49:17,208
 Talán mennem kellene.
 
-1066
+1065
 00:49:17,250 --> 00:49:20,044
 Elígérkeztem egy másik házhoz is.
 
-1067
+1066
 00:49:20,086 --> 00:49:22,130
 - Mondj egy viccet!
 - Tessék?
 
-1068
+1067
 00:49:22,171 --> 00:49:23,715
 Mondj egy viccet, csak egyet!
 
-1069
+1068
 00:49:23,756 --> 00:49:25,466
 Nos, nem igazán
 mesélek vicceket.
 
-1070
+1069
 00:49:25,508 --> 00:49:26,752
 Azt mondtad, humorista leszel.
 
-1071
+1070
 00:49:26,776 --> 00:49:28,469
 Szerintem mondanod
 kellene pár viccet.
 
-1072
+1071
 00:49:28,511 --> 00:49:31,431
 Õ amolyan tudatfolyam
 vezérelte humorista.
 
-1073
+1072
 00:49:31,472 --> 00:49:32,974
 Igen. Megfigyelés alapú humor.
 
-1074
+1073
 00:49:33,016 --> 00:49:35,226
 Fogalmam sincs, mi az a
 megfigyelés alapú humor.
 
-1075
+1074
 00:49:35,268 --> 00:49:37,337
 - Azt mondtad, lesz ma
 egy mûsorod, igaz? - Igen.
 
-1076
+1075
 00:49:37,361 --> 00:49:39,355
 - Mirõl fogsz beszélni?
 - Nos, én...
 
-1077
+1076
 00:49:39,397 --> 00:49:40,773
 beszélek majd dolgokról.
 
-1078
+1077
 00:49:40,815 --> 00:49:42,883
 Dolgokról. Könnyesre
 röhögöm magam.
 
-1079
+1078
 00:49:42,925 --> 00:49:44,902
 Személyes dolgokról.
 
-1080
+1079
 00:49:44,944 --> 00:49:47,989
 Házasság, randizás, talán.
 
-1081
+1080
 00:49:48,031 --> 00:49:50,575
 Van egy szövegem a
 titkárnõkrõl és a hatalmas...
 
-1082
+1081
 00:49:50,617 --> 00:49:53,069
 De az már régi, meg rossz
 is, már nem is használom.
 
-1083
+1082
 00:49:53,110 --> 00:49:55,913
 Van egy szövegem arról, hogy
 kötekednek Ethan-nel a parkban.
 
-1084
+1083
 00:49:55,955 --> 00:49:58,307
 Borzalmasan hangzik.
 Mikor történt ez?
 
-1085
+1084
 00:49:58,349 --> 00:50:00,668
 - Jó régen.
 - És te viccelõdsz rajta?
 
-1086
+1085
 00:50:00,710 --> 00:50:03,745
-Felnagyítom, úgy teszek, mintha
+Kiszínezem, úgy teszek, mintha
 visszavágásra buzdítanám.
 
-1087
+1086
 00:50:03,755 --> 00:50:05,381
 "Anyu nem puncikat nevelt!"
 
-1088
+1087
 00:50:05,423 --> 00:50:07,258
 - Ez meg mit jelent?
 - Melyik parkban történt?
 
-1089
+1088
 00:50:07,300 --> 00:50:10,086
 Nem, ez csak egy példa volt,
 hogy milyenek a poénjaim.
 
-1090
+1089
 00:50:10,127 --> 00:50:15,039
 Miriam, te egy szemrevaló lány vagy, de
 ez a poén gyatra volt. Énekelni tudsz?
 
-1091
+1090
 00:50:15,058 --> 00:50:16,259
 - Apu!
 - Csak azt mondom,
 
-1092
+1091
 00:50:16,260 --> 00:50:18,054
 hogy egy humoristának
 viccesnek kell lennie.
 
-1093
+1092
 00:50:18,055 --> 00:50:19,916
 Ellenkezõ esetben
 úgy hívnák, Abe.
 
-1094
+1093
 00:50:19,937 --> 00:50:21,814
 Semmi sem vicces,
 amikor hazudnak neked.
 
-1095
+1094
 00:50:21,856 --> 00:50:23,250
 Azt sem tudod, mire vagy mérges.
 
-1096
+1095
 00:50:23,274 --> 00:50:26,952
 Egész nap ezen a vacsorán dolgoztam
 és csak áll ott hasztalanul.
 
-1097
+1096
 00:50:26,986 --> 00:50:28,212
 Tudod, hogy rád vagyok dühös.
 
-1098
+1097
 00:50:28,213 --> 00:50:29,213
 Ok nélkül.
 
-1099
+1098
 00:50:29,214 --> 00:50:31,012
 - Zelda, hozzák az ételt!
 - ...szerinted vicces?
 
-1100
+1099
 00:50:31,048 --> 00:50:33,260
 - Ha csak egy percig is elgondolkodtál
 volna... - Nem mondod el nekünk?
 
-1101
+1100
 00:50:33,284 --> 00:50:35,244
 Fogja be mindenki!
 
-1102
+1101
 00:50:36,162 --> 00:50:39,540
 Terhes vagyok!
 
-1103
+1102
 00:50:39,582 --> 00:50:43,243
 A megfelelõ pillanatra
 vártam, hogy elmondjam.
 
-1104
+1103
 00:50:46,381 --> 00:50:49,217
 Gratulálok!
 
-1105
+1104
 00:50:49,258 --> 00:50:51,511
 Köszönöm!
 
-1106
+1105
 00:50:54,555 --> 00:50:57,141
 Oké. Vége a bulinak, haver.
 
-1107
+1106
 00:50:57,183 --> 00:51:01,953
 Ti ketten, nem itt akartok
 gyereket csinálni. Higgyetek nekem!
 
-1108
+1107
 00:51:01,979 --> 00:51:03,940
 Ideje lécelni! Gyerünk, haver!
 
-1109
+1108
 00:51:03,981 --> 00:51:06,734
 - Várom a következõ elõadást.
 - Ez a szerencsenapod.
 
-1110
+1109
 00:51:06,776 --> 00:51:09,153
 A következõ mûsor
 pont odakint kezdõdik.
 
-1111
+1110
 00:51:09,195 --> 00:51:11,072
 Ja, sétálj csak!
 
-1112
+1111
 00:51:11,114 --> 00:51:13,116
 Mozgás, mozgás!
 
-1113
+1112
 00:51:13,157 --> 00:51:16,393
 Na ez egy remek mûsor volt.
 
-1114
+1113
 00:51:16,435 --> 00:51:20,420
 Csalásnak éreztem. Annyit tettem,
 hogy elõadtam a vacsorát szóról szóra.
 
-1115
+1114
 00:51:20,456 --> 00:51:23,176
 Kit érdekel? Összepisálta
 magát a gój pali a röhögéstõl,
 
-1116
+1115
 00:51:23,218 --> 00:51:25,628
 amitõl normál esetben felfordulna
 a gyomrom, de nem most.
 
-1117
+1116
 00:51:25,670 --> 00:51:27,880
 - Imádott.
 - Rohadtul.
 
-1118
+1117
 00:51:31,592 --> 00:51:34,971
 - Tudod, mi ez?
 - Whisky, amit nem engedhetek meg?
 
-1119
+1118
 00:51:35,012 --> 00:51:38,257
 - Ez az évfordulónk.
 - Nem menj át csöpögõsbe!
 
-1120
+1119
 00:51:38,299 --> 00:51:40,977
 Egy évvel ezelõtt,
 jom kippur-on,
 
-1121
+1120
 00:51:41,018 --> 00:51:46,065
 megvolt az elsõ
 mûsorom, letartóztattak.
 
-1122
+1121
 00:51:46,107 --> 00:51:47,692
 Találkoztam Lenny-vel.
 
-1123
+1122
 00:51:47,734 --> 00:51:50,236
 Letetted értem az óvadékot.
 
-1124
+1123
 00:51:50,278 --> 00:51:52,997
 Egy évvel ezelõtt a férjem
 kisétált az életembõl,
 
-1125
+1124
 00:51:53,039 --> 00:51:54,866
 és minden fenekestül felfordult.
 
-1126
+1125
 00:51:54,907 --> 00:51:56,451
 Hurrá!
 
-1127
+1126
 00:51:56,492 --> 00:51:59,162
 A régi életem véget ért,
 és elkezdõdött az új.
 
-1128
+1127
 00:51:59,203 --> 00:52:01,914
 Mindenkit kitereltem.
 Indulok haza.
 
-1129
+1128
 00:52:01,956 --> 00:52:03,416
 Nagy voltál ma, Midge.
 
-1130
+1129
 00:52:03,458 --> 00:52:05,168
 Kösz, Jackie!
 
-1131
+1130
 00:52:05,209 --> 00:52:07,170
 Mi a következõ lépés?
 
-1132
+1131
 00:52:07,211 --> 00:52:09,380
 Elkezdek szervezni egy turnét,
 
-1133
+1132
 00:52:09,422 --> 00:52:11,799
 útra kelünk és elkezdünk
 pénzt termelni.
 
-1134
+1133
 00:52:11,841 --> 00:52:13,617
 Szerinted nagy leszek?
 
-1135
+1134
 00:52:13,659 --> 00:52:16,969
 Szerintem hatalmas púp leszel
 a hátamon nagyon hamarosan.
 
-1136
+1135
 00:52:17,021 --> 00:52:18,556
 Nagy akarok lenni.
 
-1137
+1136
 00:52:18,598 --> 00:52:21,476
 A legnagyobb dolog.
 
-1138
+1137
 00:52:21,517 --> 00:52:23,394
 Ciciket fel?
 
-1139
+1138
 00:52:23,436 --> 00:52:26,439
 Ciciket fel!
 
-1140
+1139
 00:52:31,915 --> 00:52:36,915
 Magyar szöveg: flc
 
