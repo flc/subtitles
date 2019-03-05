@@ -372,8 +372,7 @@ csapatom, elsõként a világon,
 
 82
 00:03:35,641 --> 00:03:38,177
-megtanít egy
-számítógépet énekelni.
+megtanít egy számítógépet énekelni.
 
 83
 00:03:38,218 --> 00:03:40,512
@@ -422,12 +421,11 @@ Persze, hogy az volt.
 93
 00:04:06,288 --> 00:04:09,449
 Most már egy csekkre tudja
-hamísitani az aláírásod.
+hamisítani az aláírásod.
 
 94
 00:04:10,459 --> 00:04:13,837
-Nagyon jól sikerült
-a ma esti mûsor.
+Nagyon jól sikerült a ma esti mûsor.
 
 95
 00:04:13,879 --> 00:04:17,319
@@ -458,7 +456,7 @@ városban miután hazajövök.
 
 101
 00:04:31,438 --> 00:04:34,483
-A közelben egy rendes klubban.
+A közelben, egy rendes klubban.
 
 102
 00:04:34,525 --> 00:04:36,360
@@ -480,8 +478,7 @@ látnál egy normális fellépésen,
 
 106
 00:04:43,083 --> 00:04:44,593
-akkor talán jobban
-éreznéd magad.
+akkor talán jobban éreznéd magad.
 
 107
 00:04:44,599 --> 00:04:46,199
@@ -610,7 +607,7 @@ Archie anyja folyton marhahúst
 135
 00:06:09,310 --> 00:06:12,079
 Bûzlik az egész épület,
-mintha Dublin belvárosban lennénk.
+mintha Dublin belvárosában lennénk.
 
 136
 00:06:12,086 --> 00:06:13,814
@@ -674,11 +671,11 @@ Unalmas Ember Itt Eszik Deli-nek.
 
 149
 00:06:39,316 --> 00:06:41,656
-- Ez túl hosszú lett volna a táblára.
+- Az túl hosszú lett volna a táblára.
 - Azt reméltem, olyan lesz,
 
 150
-00:06:41,660 --> 00:06:43,880
+00:06:41,660 --> 00:06:43,879
 mint amikor Lucy a Brown Derby-ben
 meglátta William Holden-t,
 
@@ -730,7 +727,7 @@ Bejött egyszer Gregory Peck.
 
 161
 00:07:08,804 --> 00:07:10,514
-Ne. Kamuzol? Mindegy.
+Ne! Kamuzol? Mindegy.
 
 162
 00:07:10,556 --> 00:07:12,850
@@ -757,7 +754,7 @@ be a válogatást.
 167
 00:07:18,997 --> 00:07:21,608
 Majd én.
-Verla, kedves barátom, Imogene
+Verla, kedves barátom itt, Imogene
 
 168
 00:07:21,650 --> 00:07:23,527
@@ -1062,7 +1059,7 @@ jól fog elsülni, bárhová is teszed.
 
 231
 00:09:45,002 --> 00:09:46,295
-Oké
+Oké.
 
 232
 00:09:46,336 --> 00:09:47,713
@@ -1119,7 +1116,7 @@ WASHINGTON D.C.
 243
 00:10:27,794 --> 00:10:30,839
 - Kennedy szenátor elindul az elnöki
-címért, mit gondolnak? - <i>Igen.</i>
+címért? Mit gondolnak? - <i>Igen.</i>
 
 244
 00:10:30,881 --> 00:10:32,674
@@ -1246,7 +1243,7 @@ Micsoda... mi történt?
 
 270
 00:11:39,491 --> 00:11:40,693
-Tûz van, kifelé mindenkinek!
+Tûz van, kifelé mindenki!
 
 271
 00:11:40,717 --> 00:11:42,702
@@ -1293,12 +1290,11 @@ anyag van a hajamon.
 
 280
 00:12:00,028 --> 00:12:01,404
-Meghalunk, ha csak
-álldogálunk itt.
+Meghalunk, ha csak álldogálunk itt.
 
 281
 00:12:01,446 --> 00:12:04,449
-- A színpadon halnál meg. Micsoda módja 
+- A színpadon halnál meg. Micsoda módja
 lenne a távozásnak. - Mozgás!
 
 282
@@ -1351,12 +1347,12 @@ A TV érmével mûködik.
 
 293
 00:12:44,598 --> 00:12:46,808
-Nem szórakozol jól?
+Nincs jó kedved?
 
 294
 00:12:46,850 --> 00:12:48,560
-Jó lett volna, ha
-befejezed a mûsorod.
+Jó lenne,
+ha befejezted volna a mûsorod.
 
 295
 00:12:48,602 --> 00:12:50,761
@@ -1385,7 +1381,7 @@ Tudom, hogy szeretnél.
 300
 00:12:59,154 --> 00:13:01,490
 Megyek. Amint a fickó
-felhozta a csomagjaim.
+felhozta a csomagjaimat.
 
 301
 00:13:01,531 --> 00:13:03,492
@@ -1419,13 +1415,12 @@ majd áttúrja a csomagod,
 
 307
 00:13:14,711 --> 00:13:17,005
-és a fûzõddel a
-fején fog rárántani.
+és a fûzõddel a fején fog rárántani.
 
 308
 00:13:17,047 --> 00:13:19,325
 Szóval senki nem hozza
-fel a csomagjaim?
+fel a csomagjaimat?
 
 309
 00:13:19,366 --> 00:13:21,885
@@ -1604,8 +1599,7 @@ hogy "Öleljen át, égek!".
 
 346
 00:15:05,279 --> 00:15:07,073
-Egy pillanatra azt
-hittem, megteszi.
+Egy pillanatra azt hittem, megteszi.
 
 347
 00:15:07,115 --> 00:15:08,867
@@ -1857,7 +1851,7 @@ hogy nõ vagy, vagy alacsony,
 401
 00:17:20,957 --> 00:17:23,460
 letépem a fejedet,
-és azzal fogunk focizni a fiammal.
+aztán azzal fogunk focizni a fiammal.
 
 402
 00:17:23,501 --> 00:17:24,962
@@ -1958,7 +1952,7 @@ kicsinálja a lábam a vezetés.
 
 423
 00:18:18,264 --> 00:18:20,058
-- Azaz... ?
+- Azaz...?
 - Te vezetsz.
 
 424
@@ -2047,7 +2041,7 @@ Elcsesztem. Mit mondhatnék?
 442
 00:19:10,817 --> 00:19:13,027
 Általában a fellépõ ruhádban
-jelensz meg a fellépésen.
+jelensz meg a fellépéseken.
 
 443
 00:19:13,069 --> 00:19:15,196
@@ -2189,8 +2183,7 @@ szobában, amikor a fiam született.
 
 473
 00:20:23,097 --> 00:20:24,933
-Talán még akkor
-is, amikor fogant.
+Talán még akkor is, amikor fogant.
 
 474
 00:20:24,974 --> 00:20:28,603
@@ -2452,8 +2445,7 @@ poénodra, mert annak annyi.
 
 529
 00:23:14,060 --> 00:23:16,729
-Tényleg ott fogsz
-állni egész éjszaka?
+Tényleg ott fogsz állni egész éjszaka?
 
 530
 00:23:16,771 --> 00:23:18,898
@@ -2502,7 +2494,7 @@ Ne nézz oda!
 540
 00:23:57,645 --> 00:24:00,898
 Hé, van ötleted, hogy
-mik ezek a fura dudorok?
+mik ezek a fura kiütések?
 
 541
 00:24:00,940 --> 00:24:03,693
@@ -2772,7 +2764,7 @@ Ez a cucc egyáltalán nem segít.
 
 598
 00:26:24,875 --> 00:26:26,961
-Rá kell fújni!
+Rá kell fújni.
 
 599
 00:26:29,714 --> 00:26:31,632
@@ -2798,7 +2790,8 @@ Azt hittem, nem tudsz vezetni.
 
 604
 00:26:51,902 --> 00:26:53,571
-De azt tudom, hogy hogyan ne.
+De azt tudom,
+hogy hogyan nem szabad.
 
 605
 00:26:53,612 --> 00:26:55,656
@@ -2982,12 +2975,12 @@ Annyira lefoglalt a
 turnéra készülõdés,
 
 644
-00:28:32,052 --> 00:28:33,321
+00:28:32,052 --> 00:28:33,521
 aztán papa azt mondta,
 hogy krumplisaláta.
 
 645
-00:28:33,345 --> 00:28:35,464
+00:28:33,545 --> 00:28:35,464
 Annyira sajnálom. Ma van.
 
 646
@@ -3021,7 +3014,7 @@ teszi a lábait,
 
 652
 00:28:45,624 --> 00:28:47,017
--  és bent tartja.
+- és bent tartja.
 - Nem jön?
 
 653
@@ -3207,7 +3200,7 @@ Egy Bendel táskában, szaladj érte.
 692
 00:30:24,865 --> 00:30:27,660
 - Nem szabad futnia.
-- Nem úgy értetttem.
+- Nem úgy értettem.
 
 693
 00:30:27,701 --> 00:30:29,078
@@ -3410,16 +3403,16 @@ Habár elfogyott a pénzünk.
 
 738
 00:32:49,301 --> 00:32:52,911
-Elkerülhettük volna a dugót ha nem
-fejjel lefelé fogod a térképet.
+Elkerülhettük volna a dugót,
+ha nem fejjel lefelé fogod a térképet.
 
 739
-00:32:52,930 --> 00:32:55,258
-Elkerülhettük volna a dugót ha
-korábban felkeltettél volna.
+00:32:52,930 --> 00:32:55,358
+Elkerülhettük volna a dugót,
+ha korábban felkeltettél volna.
 
 740
-00:32:55,282 --> 00:32:57,075
+00:32:55,382 --> 00:32:57,175
 Mi vagyok én, egy kibaszott kakas?
 
 741
@@ -3498,7 +3491,7 @@ Kijutottunk Jersey-bõl.
 757
 00:33:30,968 --> 00:33:32,511
 New York-ban vagyunk.
-New York-ban vagyunk.
+New York-ban vagyunk!
 
 758
 00:33:32,553 --> 00:33:33,929
@@ -3530,7 +3523,7 @@ nem New Jersey lesz.
 764
 00:33:52,948 --> 00:33:54,199
 - Igen, igen.
-- A bárnál.
+- A bárpultnál.
 
 765
 00:33:54,241 --> 00:33:55,468
@@ -3823,7 +3816,7 @@ de nagyon le kellene tusolnom.
 828
 00:36:26,359 --> 00:36:27,853
 - Ja, nem mondod.
-- Baszd meg!
+- Kapd be!
 
 829
 00:36:27,895 --> 00:36:29,771
@@ -3831,8 +3824,8 @@ Itt várj!
 
 830
 00:36:32,024 --> 00:36:34,526
-Hé, kemény gyerek, fizetsz
-a fasziknak de a nõknek nem?
+Hé, kemény gyerek,
+a faszikat kifizeted, de a nõket nem?
 
 831
 00:36:34,568 --> 00:36:36,470
@@ -4086,7 +4079,7 @@ Joel!
 
 886
 00:38:44,656 --> 00:38:47,083
-Bárhogy is ért volna véget a
+Bárhogy ért volna véget a
 mondat, ez lett volna a vége.
 
 887
@@ -4248,7 +4241,7 @@ A megszokás teszi.
 
 923
 00:40:48,446 --> 00:40:50,907
-Mi a... ?
+Mi a...?
 
 924
 00:41:00,542 --> 00:41:02,085
