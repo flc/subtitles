@@ -397,8 +397,7 @@ reuma betegeknek gyűjtenek.
 
 87
 00:03:09,189 --> 00:03:10,792
-Édesanyád családjában
-is előfordul.
+Édesanyád családjában is előfordul.
 
 88
 00:03:10,816 --> 00:03:13,355
@@ -453,8 +452,8 @@ Stand-upolni.
 
 99
 00:03:40,262 --> 00:03:41,980
-Használhatom a kiddus
-poharas poént?
+Használhatom a
+kiddus poharas poént?
 
 100
 00:03:42,022 --> 00:03:43,140
@@ -641,8 +640,7 @@ Megsemmisítelek, kisöreg!
 
 141
 00:05:20,320 --> 00:05:21,915
-A furgonok a
-rakodónál várakoznak.
+A furgonok a rakodónál várakoznak.
 
 142
 00:05:21,939 --> 00:05:23,699
@@ -1004,8 +1002,7 @@ Találkoztam valakivel,
 
 222
 00:09:19,801 --> 00:09:21,436
-aki tökéletes férj
-jelöltnek tűnt.
+aki tökéletes férj jelöltnek tűnt.
 
 223
 00:09:21,478 --> 00:09:23,506
@@ -1113,7 +1110,7 @@ Szörnyszülött család. Bizony.
 246
 00:10:16,241 --> 00:10:18,993
 Jöjjenek közelebb és tekintsék
-meg a cirkuszi torzszülötteket!
+meg a cirkuszi szörnyszülötteket!
 
 247
 00:10:19,036 --> 00:10:20,579
@@ -1376,7 +1373,7 @@ hozzá 12-t az aktuális időhöz.
 304
 00:12:52,095 --> 00:12:54,697
 - Hogy mihez mit? <i>- Következő.</i>
-- Kövessenek? - Rendben.
+- Kövessenek! - Rendben.
 
 305
 00:12:54,774 --> 00:12:56,610
@@ -1394,7 +1391,7 @@ hozzá 12-t az aktuális időhöz.
 308
 00:13:00,280 --> 00:13:01,656
 - Kellékek?
-- Nincs.
+- Nincsenek.
 
 309
 00:13:01,698 --> 00:13:03,033
@@ -1617,8 +1614,7 @@ Csak mert, Abe,
 
 356
 00:14:39,838 --> 00:14:41,715
-Ami azt illeti,
-sokan gondolják így.
+Ami azt illeti, sokan gondolják így.
 
 357
 00:14:41,756 --> 00:14:43,967
@@ -1643,8 +1639,7 @@ az iskolaorvos,
 
 362
 00:14:52,058 --> 00:14:53,768
-a védőnő,
-a parkolóőrök...
+a védőnő, a parkolóőrök...
 
 363
 00:14:53,810 --> 00:14:55,520
@@ -1820,8 +1815,7 @@ Simon felesége imádja a belga zselét.
 
 402
 00:16:50,218 --> 00:16:52,053
-Rendelek belőle.
-Odaadom neki,
+Rendelek belőle. Odaadom neki,
 
 403
 00:16:52,095 --> 00:16:54,338
@@ -1830,8 +1824,8 @@ elbájcseverészünk,
 
 404
 00:16:54,380 --> 00:16:56,975
-a zselé elfogy és
-minden rendben lesz.
+a zselé elfogy,
+és minden rendben lesz.
 
 405
 00:16:57,016 --> 00:16:59,018
@@ -2363,7 +2357,8 @@ Nem szeretném, hogy itt legyél.
 
 522
 00:21:36,170 --> 00:21:39,632
-Miért? Miért csinálod ezt? Miért most?
+Miért? Miért csinálod ezt?
+Miért most?
 
 523
 00:21:39,674 --> 00:21:41,801
@@ -2393,7 +2388,8 @@ Engesztelésül.
 
 529
 00:21:58,818 --> 00:22:01,029
-Plusz a kamatok. Plusz bűntudat, jó sok.
+Plusz a kamatok.
+Plusz bűntudat, jó sok.
 
 530
 00:22:01,070 --> 00:22:04,115
@@ -2402,7 +2398,7 @@ Plusz a kamatok. Plusz bűntudat, jó sok.
 
 531
 00:22:04,157 --> 00:22:06,868
-Nem az anyád az egyetlen,
+Nem anyád az egyetlen,
 aki pénz rejteget.
 
 532
@@ -2501,7 +2497,7 @@ hogy adjunk hozzá 12-t az időhöz.
 
 552
 00:23:47,426 --> 00:23:49,387
-Most délután 4 van. Hozzáadunk 12-őt.
+Most délután 4 van. Hozzáadunk 12-t.
 
 553
 00:23:49,428 --> 00:23:51,889
@@ -3500,7 +3496,7 @@ volt az arcodon az előbbi hívásnál.</i>
 
 775
 00:33:21,917 --> 00:33:25,457
-Nos, Mason épp most voltam vonalban
+Nos, Mason, épp most voltam vonalban
 egy brooklyn-i kishölggyel.
 
 776
@@ -3594,7 +3590,8 @@ Igen, uram. Waylon Jones-tól.
 
 795
 00:34:03,125 --> 00:34:05,169
-A visszajátszást időzíteni kell és mehet.
+A visszajátszást
+időzíteni kell és mehet.
 
 796
 00:34:05,210 --> 00:34:07,296
@@ -3809,7 +3806,8 @@ kettes, négyes és hetes számú férjekkel.
 
 842
 00:37:41,927 --> 00:37:44,513
-A hetesről meg kiderült, hogy halott.
+A hetesről kiderült,
+hogy halott volt.
 
 843
 00:37:47,265 --> 00:37:48,827
@@ -4233,8 +4231,7 @@ Miért szállt rá ennyire?
 
 937
 00:42:41,101 --> 00:42:43,728
-A szájára vett és
-bekerült a sajtóba.
+A szájára vett és bekerült a sajtóba.
 
 938
 00:42:43,770 --> 00:42:46,606
@@ -4253,8 +4250,7 @@ Kizárat minket klubokból,
 
 941
 00:42:51,853 --> 00:42:53,413
-Ha falakat emel,
-én lebontom őket.
+Ha falakat emel, én lebontom őket.
 
 942
 00:42:53,454 --> 00:42:55,064
@@ -4332,8 +4328,7 @@ bocsánatot, ami majd sztárrá teszi.
 
 958
 00:43:42,537 --> 00:43:44,307
-Mert még legalább
-öten nézik otthon.
+Mert még legalább öten nézik otthon.
 
 959
 00:43:44,331 --> 00:43:46,082
@@ -4421,15 +4416,15 @@ Köszönjük nagylelkűségüket
 
 977
 00:44:37,467 --> 00:44:39,719
-Várjunk csak, majdnem elfelejtettük.
+<i>Várjunk csak, majdnem elfelejtettük.</i>
 
 978
 00:44:39,761 --> 00:44:43,390
-Kérem fogadják sok szeretettel...
+<i>Kérem fogadják sok szeretettel...</i>
 
 979
 00:44:43,431 --> 00:44:46,226
-Mrs. Maisel-t!
+<i>Mrs. Maisel-t!</i>
 
 980
 00:44:50,939 --> 00:44:53,316
@@ -4684,7 +4679,7 @@ Hívásokra válaszol és poénkodik.
 
 1036
 00:47:10,036 --> 00:47:12,288
-Mi az, amit nem tud?
+Mi az, amihez nem ért?
 
 1037
 00:47:12,330 --> 00:47:15,099
@@ -4732,7 +4727,7 @@ táskát, és szerzett egy feleséget!</i>
 <i>Halló, üdvözlöm a telethonon!</i>
 
 1047
-00:47:38,731 --> 00:47:43,684
+00:47:38,731 --> 00:47:43,731
 <i>Ó, megérkezett. Tökéletes. Hé, valaki le
 tudna menni és átvenni a kínai kajámat?</i>
 
@@ -4932,7 +4927,7 @@ Imádná.
 
 1091
 00:49:38,935 --> 00:49:42,146
-- Szép munka volt, srácok! - Legközelebbb
+- Szép munka volt, srácok! - Legközelebb
 maradjon a forgatókönyvnél, rendben?
 
 1092
@@ -4978,7 +4973,7 @@ Még jobb is, hogy későn kezdtem.
 1101
 00:49:57,704 --> 00:49:59,982
 A körülmények rosszak voltak,
-de kisebb volt a nyomás.
+de megszűnt a nyomás.
 
 1102
 00:50:00,006 --> 00:50:02,208
